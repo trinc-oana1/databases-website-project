@@ -1,0 +1,12 @@
+USE graduation;
+
+CREATE TABLE IF NOT EXISTS contact (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    username VARCHAR(100) NOT NULL,
+    number VARCHAR(20) NOT NULL,
+    pack VARCHAR(50) NOT NULL,
+    address VARCHAR(255) NOT NULL,
+    message TEXT,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
