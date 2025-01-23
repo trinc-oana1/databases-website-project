@@ -1,5 +1,5 @@
 # databases-website-project
-## My project consists in a website about a company named “YOUR GRADUATION” which organizes graduations for the universities of Cluj Napoca.\
+### My project consists in a website about a company named “YOUR GRADUATION” which organizes graduations for the universities of Cluj Napoca.
 •	About page - Includes the description of the company and its staff (with links to their social media so that the customer can take a look in what they do): an event planner, a photographer/videographer, a singer and a chef. It has a “Contact us” button that redirects the user to the contact form.\
 •	Home page – where you can find the services (graduation regalia, diploma, graduation ceremony and graduation party) and “About us” buttons that redirects the user to the About page.\
 •	Packages & clients page – where you can find the available plans different in facilities based on their price: basic pack, upgraded pack, premium pack and also pictures and a star review from the client universities: UTCN, UBB, USAMV and UMF.\
